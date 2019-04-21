@@ -4,13 +4,10 @@ Library    Selenium2Library
 Library    OperatingSystem
 Test Teardown    Close Browser
 
+
 *** Variables ***
 ${test_check}    false
-${test_check1}    true
-${test_check2}    abc
 
-
-*** Keywords ***
 
 *** Test Cases ***
     
