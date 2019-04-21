@@ -5,6 +5,7 @@ Library    OperatingSystem
 Test Teardown    Close Browser
 
 *** Variables ***
+${test_check}    false
 
 *** Keywords ***
 
